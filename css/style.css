@@ -3,18 +3,25 @@ html {
   font-size: 16px;
   line-height: 1.2em;
   padding: 2em;
-  background: #bedfff;
+  background: #0B0C10;
   text-align: left;
   padding: 2.125em 15%;
+  color: #66FCF1;
 }
 
 html {
-  border-top: 2.4em solid #414141;
+  border-top: 2.4em solid #1F2833;
 }
 
 h1 {
   text-align: left;
   font-size: 50px;
+  font-family: ;
+}
+
+h2 {
+  font-size: 30px;
+  text-decoration: underline;
 }
 
 nav{
@@ -30,13 +37,13 @@ nav a {
   display: block;
   padding: 4px;
   font: bold 25px/30px sans-serif;
-  background: #000000;
-  color: #ff0606;
+  background: #1F2833;
+  color: #66FCF1;
   text-align: center;
 }
 
 nav a:hover {
-  background: #8BC34A;
+  background: #45A29E;
 }
 
 nav li {
@@ -55,4 +62,8 @@ nav ul {
   list-style-type: none;
   float: left;
   left: 47%;
+}
+
+#name {
+	font-size: 30px;
 }
