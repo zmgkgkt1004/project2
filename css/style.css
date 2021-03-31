@@ -8,6 +8,10 @@ html {
   padding: 2.125em 15%;
 }
 
+html {
+  border-top: 2.4em solid #414141;
+}
+
 h1 {
   text-align: left;
   font-size: 50px;
@@ -21,14 +25,14 @@ nav{
   top: 0;
   left: 0;
 }
-}
+
 
 nav a {
   display: block;
   padding: 4px;
   font: bold 25px/30px sans-serif;
-  background: #73aab7;
-  color: #000000;
+  background: #000000;
+  color: #ff0606;
   text-align: center;
 }
 
@@ -40,4 +44,16 @@ nav li {
   float: left;
   width: 12.5em;
   list-style: none;
+  right: 50%;
+  text-align: center;
+  position: relative;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  list-style-type: none;
+  float: left;
+  left: 47%;
 }
