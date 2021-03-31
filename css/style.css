@@ -67,3 +67,21 @@ nav ul {
 #name {
 	font-size: 30px;
 }
+
+.education	{
+	width: 100%;
+	margin: 2em 0 13em 0;
+}
+.professionalexperiences	{
+	width: 50%;
+	float: left;
+}
+.activities	{
+	width: 45%;
+	float: left;
+}
+.class	{
+	width: 45%;
+	float: left;
+	margin: 2em
+}
