@@ -32,7 +32,6 @@ h3 {
 	font-size: 25px;
 	margin: 10px;
 	font-weight: bold;
-	text-decoration:underline;
 }
 
 nav{
@@ -120,4 +119,24 @@ dt{
 
 dl{
 	margin:6px;
+}
+
+#cih3{
+	text-decoration: underline;
+}
+
+#edh3{
+	text-decoration: underline;
+}
+
+#pe3{
+	text-decoration: underline;
+}
+
+#activitiesh3{
+	text-decoration:underline;
+}
+
+#sh3{
+	text-decoration:underline;
 }
