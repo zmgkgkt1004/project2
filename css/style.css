@@ -176,3 +176,16 @@ dl{
     margin-top: 8px;
 }
 
+#roboticsImage {
+	max-width: 60%;
+	height: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#armyImage{
+	max-width: 25%;
+	height: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
