@@ -165,3 +165,12 @@ dl{
 	text-decoration:underline;
 }
 
+#gameList {
+	list-style-type: disc;
+	margin-left: 3em;
+}
+
+#drumImage {
+	max-width: 50%;
+	height: auto;
+}
