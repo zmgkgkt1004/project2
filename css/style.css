@@ -7,6 +7,8 @@ html {
   text-align: left;
   padding: 2.125em 15%;
   color: #66FCF1;
+  margin: 0;
+  
 }
 
 html {
@@ -16,16 +18,24 @@ html {
 h1 {
   text-align: left;
   font-size: 50px;
-  font-family: ;
+
 }
 
 h2 {
   font-size: 30px;
   text-decoration: underline;
+  text-align: center;
+}
+
+h3 {
+	font-size: 25px;
+	margin: 10px;
+	font-weight: bold;
+
 }
 
 nav{
-  margin-left: 5em;
+  margin-left: 3.2em;
   margin-right: 5em;
   position: absolute;
   width: 100%;
@@ -66,6 +76,7 @@ nav ul {
 
 #name {
 	font-size: 30px;
+	text-align:center;
 }
 
 div {
@@ -75,7 +86,25 @@ div {
 
 #education {
 	width:50%;
-	background:#4B0DB2;
 	text-align:center;
 }
 
+#contact {
+	width:100%;
+	text-align:center;
+}
+
+#professionalexperiences{
+	width: 50%;
+	text-align:center;
+}
+
+#activities{
+	width:50%;
+	text-align:center;
+}
+
+#skill{
+	width: 50%;
+	text-align:center;
+}
