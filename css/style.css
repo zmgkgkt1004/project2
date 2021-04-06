@@ -25,13 +25,14 @@ h2 {
   font-size: 30px;
   text-decoration: underline;
   text-align: center;
+  font-weight: bold;
 }
 
 h3 {
 	font-size: 25px;
 	margin: 10px;
 	font-weight: bold;
-
+	text-decoration:underline;
 }
 
 nav{
@@ -107,4 +108,16 @@ div {
 #skill{
 	width: 50%;
 	text-align:center;
+}
+
+p{
+	margin: 2px;
+}
+
+dt{
+	margin: 2px;
+}
+
+dl{
+	margin:6px;
 }
