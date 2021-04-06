@@ -144,3 +144,23 @@ dl{
 #hobbiesHeading{
 	margin-bottom:8px;
 }
+
+#videoGameHeading {
+	text-decoration:underline;
+}
+
+#musicHeading {
+	text-decoration:underline;
+}
+
+#aboutMeHeading{
+	text-decoration:underline;
+}
+
+#thisCourseHeading {
+	text-decoration:underline;
+}
+
+#futureGoalHeading{
+	text-decoration:underline;
+}
